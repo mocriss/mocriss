@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mocriss
-- 👀 I’m interested in ...learning CODING
-- 🌱 I’m currently learning ...COMPUTER SCIENCE NAD C PROGRAMMING
-- 💞️ I’m looking to collaborate on ...PROGRAMMING IN C 
+- 👀 I’m interested in ...WED DESIGN
+- 🌱 I’m currently learning ...HTMAL/CSS
+- 💞️ I’m looking to collaborate on ...FRONT END DEVs
 - 📫 How to reach me ...EMAIL
 
 <!---
